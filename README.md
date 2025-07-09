@@ -19,7 +19,8 @@ A Sell signal is generated when the Short SMA crosses below the Long SMA (Death 
 
 Fetch historical stock data using Yahoo Finance API via `yfinance`.
 Calculate and plot:
-  -Short-term and long-term SMAs
-  -Actual stock prices
-  -Buy/Sell crossover signals
-  -Visualize strategy performance on real stock data
+  
+  Short-term and long-term SMAs,
+  Actual stock prices,
+  Buy/Sell crossover signals,
+  Visualize strategy performance on real stock data.
